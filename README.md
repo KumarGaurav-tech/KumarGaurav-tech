@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Devops Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
