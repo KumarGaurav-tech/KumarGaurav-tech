@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="./banner.png" alt="Banner" width="90%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Linux Automation
+Cloud • Kubernetes • Automation • Infrastructure as Code
 </h3>
 
 <img align="right" alt="Coding" width="400"
