@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/9a35dc2a-6810-490f-88df-642d7fc4ee95.png.png" alt="Banner" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
